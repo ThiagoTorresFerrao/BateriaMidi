@@ -1,2 +1,2 @@
 # BateriaMidi
-Bateria midi que pode ser tocada com cliques do mouse. Projeto visa somente testar conhecimento adiquirido no curso da Alura.
+Bateria midi que pode ser tocada com cliques do mouse. Projeto visa somente testar conhecimento adquirido no curso da Alura.
